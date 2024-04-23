@@ -4,11 +4,6 @@
  * Defintion for a class that encapsulates creating animated images from a
  * set of PNG object frames.
  *
- * @author Wade Fagen-Ulmschneider
- * @date Fall 2017
- * 
- * @author Jack Toole
- * @date Fall 2011
  */
 #pragma once
 

@@ -2,11 +2,6 @@
  * @file testheap.cpp
  * Heap Testing Code
  *
- * @author Jack Toole
- * @date Fall 2011
- *
- * @author Chase Geigle
- * @date Fall 2012
  */
 
 #include <iostream>

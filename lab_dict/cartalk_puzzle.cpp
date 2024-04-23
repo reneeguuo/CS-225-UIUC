@@ -2,8 +2,6 @@
  * @file cartalk_puzzle.cpp
  * Holds the function which solves a CarTalk puzzler.
  *
- * @author Matt Joras
- * @date Winter 2013
  */
 
 #include <fstream>

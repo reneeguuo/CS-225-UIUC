@@ -1,8 +1,6 @@
 /**
  * @file testdsets.cpp
  * Performs basic tests of DisjointSets.
- * @date April 2007
- * @author Jonathan Ray
  */
 
 #include <iostream>

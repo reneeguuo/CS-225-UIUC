@@ -4,7 +4,6 @@
  * Implementation of the animation class.
  *
  * @author Lei
- * @date Fall 2021
  */
 
 #include <stdlib.h>

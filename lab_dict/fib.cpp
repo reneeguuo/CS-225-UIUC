@@ -3,8 +3,6 @@
  * Contains Fibonacci-number generating functions both utilizing and not
  * utilizing memoization.
  *
- * @author Matt Joras
- * @date Winter 2013
  */
 
 #include "fib.h"

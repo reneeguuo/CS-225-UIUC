@@ -2,8 +2,6 @@
  * tileimage.cpp (v2)
  * Impl of the TileImage class.
  *
- * @author Wade Fagen-Ulmschneider (http://waf.cs.illinois.edu/)
- * @date Fall 2017
  */
 
 #include <algorithm>

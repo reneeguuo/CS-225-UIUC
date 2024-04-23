@@ -2,8 +2,6 @@
  * @file anagram_finder.cpp
  * Uses the AnagramDict class in an executable capable of finding all
  * anagrams of a word (or all words).
- * @author Matt Jora
- * @date Winter 2013
  */
 
 #include "anagram_dict.h"

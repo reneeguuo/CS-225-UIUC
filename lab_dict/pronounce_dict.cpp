@@ -2,8 +2,6 @@
  * @file pronounce_dict.cpp
  * Implementation of the PronounceDict class.
  *
- * @author Matt Joras
- * @date Winter 2013
  */
 
 #include "pronounce_dict.h"

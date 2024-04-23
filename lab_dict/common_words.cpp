@@ -2,8 +2,6 @@
  * @file common_words.cpp
  * Implementation of the CommonWords class.
  *
- * @author Zach Widder
- * @date Fall 2014
  */
 
 #include "common_words.h"

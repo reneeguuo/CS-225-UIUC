@@ -1,8 +1,6 @@
 /**
  * @file testsquaremaze.cpp
  * Performs basic tests of SquareMaze.
- * @date April 2007
- * @author Jonathan Ray
  */
 
 #include <iostream>

@@ -2,8 +2,6 @@
  * @file anagram_dict.cpp
  * Implementation of the AnagramDict class.
  *
- * @author Matt Joras
- * @date Winter 2013
  */
 
 #include "anagram_dict.h"

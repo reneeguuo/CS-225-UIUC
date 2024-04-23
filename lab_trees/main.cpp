@@ -2,8 +2,6 @@
  * @file main.cpp
  * This file contains code for output testing of the
  *  BinaryTree class.
- * @author Daniel Hoodin, modified by Jack Toole for colored output
- * @date March 2009
  */
 
 #include "util.h"

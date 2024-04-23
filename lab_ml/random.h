@@ -4,8 +4,7 @@
  * Originally written for use with the Graph class to generate random
  *  graphs and integers.
  *
- * @author Sean Massung
- * @date Spring 2011
+ * @author Lei
  */
 
 #pragma once
